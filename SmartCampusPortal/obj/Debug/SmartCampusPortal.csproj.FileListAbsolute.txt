@@ -1,0 +1,144 @@
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\SmartCampusPortal.dll.config
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\SmartCampusPortal.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\SmartCampusPortal.pdb
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csc.exe
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csc.exe.config
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csc.rsp
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csi.exe
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csi.exe.config
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csi.rsp
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.AppContext.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Console.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\vbc.exe
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\vbc.exe.config
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\vbc.rsp
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Antlr3.Runtime.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Newtonsoft.Json.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\System.Web.Optimization.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\WebGrease.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\System.Web.Optimization.xml
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Newtonsoft.Json.xml
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Antlr3.Runtime.pdb
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.csproj.AssemblyReference.cache
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.csproj.CoreCompileInputs.cache
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCam.D84B653E.Up2Date
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.dll
+C:\Users\zaura\Desktop\VS LMS\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.pdb
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\SmartCampusPortal.dll.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\SmartCampusPortal.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\SmartCampusPortal.pdb
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csc.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csc.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csc.rsp
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csi.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csi.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\csi.rsp
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.AppContext.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Console.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.Compression.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Net.Http.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Net.Sockets.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.ValueTuple.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.XPath.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\vbc.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\vbc.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\vbc.rsp
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\VBCSCompiler.exe
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Antlr3.Runtime.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Newtonsoft.Json.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\System.Web.Optimization.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\WebGrease.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\System.Web.Optimization.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Newtonsoft.Json.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Antlr3.Runtime.pdb
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.csproj.AssemblyReference.cache
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCam.D84B653E.Up2Date
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.dll
+D:\ASSIGNMENTS\4th SEMESTER\Web Systems and Technologies\VS LMS\SmartCampusPortal\SmartCampusPortal\SmartCampusPortal\obj\Debug\SmartCampusPortal.pdb
